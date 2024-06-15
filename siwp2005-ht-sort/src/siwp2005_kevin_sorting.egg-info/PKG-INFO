@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: siwp2005_kevin_sorting
+Version: 0.1.3
+Summary: Package that includes multiple sorting method
+Home-page: https://github.com/Kevin-Divra/siwp2005_kevin_sorting.git
+Author: kevin
+Author-email: kevin.422023023@civitas.ukrida.ac.id
+License: MIT
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
