@@ -1,0 +1,6 @@
+[submodule "siwp2005-RestAPI-Flask"]
+	path = siwp2005-RestAPI-Flask
+	url = git@github.com:hendrikTpl/siwp2005-RestAPI-Flask.git
+[submodule "siwp2005-building-pip-example"]
+	path = siwp2005-building-pip-example
+	url = git@github.com:hendrikTpl/siwp2005-building-pip-example.git
